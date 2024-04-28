@@ -22,6 +22,8 @@ int main()
     result = AddValue(a, b, p);
 
     printf("%d \n", result);
+
+    printf("The result is");
     printf("%d \n", a);
     return 0;
 }

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Learn/InternalLearning/gitTutorial",
-      "program": "d:/Learn/InternalLearning/gitTutorial/build/Debug/outDebug",
+      "cwd": "d:/Learn/InternalLearning/gitTutorial/Git_Tutorial_TienLe98",
+      "program": "d:/Learn/InternalLearning/gitTutorial/Git_Tutorial_TienLe98/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
